@@ -1,7 +1,7 @@
 # Problem
 
 <p align="center">
-  <img src="https://github.com/VictorFrancheto/Problem/blob/main/image_problem.jpg">
+  <img src="https://github.com/VictorFrancheto/Problem/blob/main/image_problem.jpg" >
 </p>
 
 # Monty Hall Problem: A Probability Paradox
