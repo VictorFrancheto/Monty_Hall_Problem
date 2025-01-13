@@ -1,5 +1,9 @@
 # Problem
 
+<p align="center">
+  <img src="https://github.com/VictorFrancheto/Problem/blob/main/image_problem.jpg">
+</p>
+
 # Monty Hall Problem: A Probability Paradox
 
 The **Monty Hall problem** is a probability paradox based on a TV show. The scenario is as follows:
