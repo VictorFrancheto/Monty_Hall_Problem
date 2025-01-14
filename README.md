@@ -1,10 +1,10 @@
-# Monty Hall Problem: A Probability Paradox
+# Monty Hall Problem
 
 <p align="center">
   <img src="https://github.com/VictorFrancheto/Problem/blob/main/image_problem.JPG" >
 </p>
 
-The **Monty Hall problem** is a probability paradox based on a TV show. The scenario is as follows:
+The **Monty Hall problem** is a probability problem based on a TV show. The scenario is as follows:
 
 1. There are three doors. Behind one door is a prize (like a car), and behind the other two are "zonks" (e.g., goats).
 2. The participant chooses one door.
